@@ -1,5 +1,6 @@
 # Data repository
 data/*csv
+data/*txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
