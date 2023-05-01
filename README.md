@@ -30,8 +30,7 @@ We provide three examples to explore the dataset:
 We provide a sample of the data in the `data` directory, that is for a simple tests. Once the tests are done, one can use the full dataset available on the repository website:
 
 ```
-'https://repository.kaust.edu.sa/bitstream/handle/10754/691066/KAUST_Affiliated_Research_Basic_Metadata.csv'
+https://repository.kaust.edu.sa/bitstream/handle/10754/691066/KAUST_Affiliated_Research_Basic_Metadata.csv'
 ```
 
-
-The VOSviewer notebook expects to find the full CSV file in the `data` directory. One can download directly using the URL above or simply clicking on it.
+The VOSviewer notebook expects to find the full CSV file in the `data` directory. One can download directly using the URL above.
