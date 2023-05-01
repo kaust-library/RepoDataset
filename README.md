@@ -6,7 +6,7 @@ Repository metadata as dataset
 
 The development was done using Jupyter notebook in Visual Studio Code, so it may work diirectly with JupyterLabs, but probably there are packages missing to run with Jupyter Labs.
 
-To set the environment inside WSL (probably any Linux):
+To set the environment inside [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) (probably the same for any Linux):
 
 ```
 mgarcia@arda:~/Work$ git clone https://github.com/kaust-library/RepoDataset.git
