@@ -41,3 +41,11 @@ https://repository.kaust.edu.sa/bitstream/handle/10754/691066/KAUST_Affiliated_R
 ```
 
 The VOSviewer notebook expects to find the full CSV file in the `data` directory. One can download directly using the URL above.
+
+### Thesis and Dissertations
+
+A sample CSV with thesis and dissertations data set:
+
+```
+https://repository.kaust.edu.sa/bitstream/handle/10754/694214/KAUST_Open_Access_ETDs_Basic_Metadata.csv
+```
